@@ -1,0 +1,13 @@
+export const SET_VISITORS = 'SET_VISITORS';
+
+export const CHANGE_VISITOR = 'CHANGE_VISITOR';
+
+export const CHANGE_INPUT = 'CHANGE_INPUT';
+
+export const RESET_FORM = 'RESET_FORM';
+
+export const SET_COUNTRIES = 'SET_COUNTRIES';
+
+export const LOADING_COUNTRIES = 'LOADING_COUNTRIES';
+
+export const FAIL_FETCH_COUNTRIES = 'FAIL_FETCH_COUNTRIES';

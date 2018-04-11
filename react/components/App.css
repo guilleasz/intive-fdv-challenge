@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #f1f1f1;
+  color: blue;
+}
+
+.app {
+  width: 1020px;
+  margin: 0 auto;
+}
+
+.header {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+}
+
+.box {
+  width: 50%;
+}
+
+.table {
+  border: 1px solid blue;
+}
+
+.author {
+  text-align: right;
+}
