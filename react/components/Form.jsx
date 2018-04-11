@@ -1,5 +1,5 @@
 import React from 'react';
-import s from './Form.css';
+import s from './Form.scss';
 
 export default ({
   submitForm,

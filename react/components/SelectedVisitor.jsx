@@ -1,5 +1,5 @@
 import React from 'react';
-import s from './SelectedVisitor.css';
+import s from './SelectedVisitor.scss';
 
 const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'Novermber', 'December'];
 

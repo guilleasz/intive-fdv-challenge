@@ -2,7 +2,7 @@ import React from 'react';
 import FormContainer from '../containers/FormContainer';
 import VisitorsContainer from '../containers/VisitorsContainer';
 import SelectedVisitorContainer from '../containers/SelectedVisitorContainer';
-import s from './App.css';
+import s from './App.scss';
 
 export default () => (
   <div className={s.app}>

@@ -1,5 +1,5 @@
 import React from 'react';
-import s from './Visitors.css';
+import s from './Visitors.scss';
 
 export default ({ visitors, changeVisitor }) => (
   <table className={s.table}>
